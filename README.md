@@ -2,6 +2,7 @@
 基于scrapy编写的Demo，用于获取亚马逊图书评论
 
 1.进入主目录运行：scrapy crawl getcommons
+
 2.程序会根据系统时间新.txt文件，并爬取的评保存在新建的文件中
 
 例如：爬取《深入理解scala》这本书的用户评论，url为http://www.amazon.cn/深入理解Scala-苏瑞茨/dp/B00RS6C9F8/ref=sr_1_1?ie=UTF8&qid=1440599649&sr=8-1&keywords=scala
